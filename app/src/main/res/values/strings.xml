@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">画中画</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="info">Info</string>
+    <string name="info_description">Information about this video</string>
+    <string name="info_uri" translatable="false">https://peach.blender.org/</string>
+    <string name="fast_forward">Fast forward</string>
+    <string name="fast_rewind">Fast rewind</string>
+    <string name="minimize">Minimize</string>
+    <string name="enter_picture_in_picture">画中画模式</string>
+    <string name="explanation"><![CDATA[
+    This sample demonstrates basic usage of Picture-in-Picture mode for handheld devices.
+    The sample plays a video. The video keeps on playing when the app is turned in to
+    Picture-in-Picture mode. On Picture-in-Picture screen, the app shows an action item to pause or
+    resume the video.
+    ]]></string>
+    <string name="switch_custom">Switch to custom actions example</string>
+    <string name="switch_media_session">Switch to using MediaSession</string>
+    <string name="title_bigbuckbunny">Big Buck Bunny</string>
+</resources>
